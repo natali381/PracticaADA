@@ -1,0 +1,108 @@
+ANÁLISIS DE RENDIMIENTO DE ALGORITMOS DE ORDENAMIENTO
+==================================================
+
+Algoritmo: BUBBLESORT
+------------------------------
+Tiempo promedio (segundos):
+  C++: 9.656997
+  Java: 2.305667
+  Python: 81.400691
+
+Lenguaje más rápido: Java
+Diferencias porcentuales:
+  C++ vs Java: -76.12%
+  C++ vs Python: 742.92%
+  Java vs Python: 3430.46%
+
+==================================================
+
+Algoritmo: COUNTINGSORT
+------------------------------
+Tiempo promedio (segundos):
+  C++: 0.000000
+  Java: 0.000000
+  Python: 0.007488
+
+Lenguaje más rápido: C++
+Diferencias porcentuales:
+  C++ vs Java: nan%
+  C++ vs Python: inf%
+  Java vs Python: inf%
+
+==================================================
+
+Algoritmo: HEAPSORT
+------------------------------
+Tiempo promedio (segundos):
+  C++: 0.009670
+  Java: 0.002667
+  Python: 0.137328
+
+Lenguaje más rápido: Java
+Diferencias porcentuales:
+  C++ vs Java: -72.42%
+  C++ vs Python: 1320.17%
+  Java vs Python: 5049.80%
+
+==================================================
+
+Algoritmo: INSERTIONSORT
+------------------------------
+Tiempo promedio (segundos):
+  C++: 2.451210
+  Java: 0.137619
+  Python: 39.388203
+
+Lenguaje más rápido: Java
+Diferencias porcentuales:
+  C++ vs Java: -94.39%
+  C++ vs Python: 1506.89%
+  Java vs Python: 28521.19%
+
+==================================================
+
+Algoritmo: MERGESORT
+------------------------------
+Tiempo promedio (segundos):
+  C++: 0.021107
+  Java: 0.003524
+  Python: 0.073816
+
+Lenguaje más rápido: Java
+Diferencias porcentuales:
+  C++ vs Java: -83.30%
+  C++ vs Python: 249.72%
+  Java vs Python: 1994.78%
+
+==================================================
+
+Algoritmo: QUICKSORT
+------------------------------
+Tiempo promedio (segundos):
+  C++: 0.012644
+  Java: 0.002381
+  Python: 0.108019
+
+Lenguaje más rápido: Java
+Diferencias porcentuales:
+  C++ vs Java: -81.17%
+  C++ vs Python: 754.29%
+  Java vs Python: 4436.79%
+
+==================================================
+
+Algoritmo: SELECTIONSORT
+------------------------------
+Tiempo promedio (segundos):
+  C++: 4.573527
+  Java: 0.402048
+  Python: 37.903486
+
+Lenguaje más rápido: Java
+Diferencias porcentuales:
+  C++ vs Java: -91.21%
+  C++ vs Python: 728.76%
+  Java vs Python: 9327.61%
+
+==================================================
+
